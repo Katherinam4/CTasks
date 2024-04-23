@@ -1,0 +1,10 @@
+C:\Users\Ekaterine\source\repos\Praqtikuli_Davaleba_2\Praqtikuli_Davaleba_2\bin\Debug\Praqtikuli_Davaleba_2.exe.config
+C:\Users\Ekaterine\source\repos\Praqtikuli_Davaleba_2\Praqtikuli_Davaleba_2\bin\Debug\Praqtikuli_Davaleba_2.exe
+C:\Users\Ekaterine\source\repos\Praqtikuli_Davaleba_2\Praqtikuli_Davaleba_2\bin\Debug\Praqtikuli_Davaleba_2.pdb
+C:\Users\Ekaterine\source\repos\Praqtikuli_Davaleba_2\Praqtikuli_Davaleba_2\obj\Debug\Praqtikuli_Davaleba_2.csproj.AssemblyReference.cache
+C:\Users\Ekaterine\source\repos\Praqtikuli_Davaleba_2\Praqtikuli_Davaleba_2\obj\Debug\Praqtikuli_Davaleba_2.Form1.resources
+C:\Users\Ekaterine\source\repos\Praqtikuli_Davaleba_2\Praqtikuli_Davaleba_2\obj\Debug\Praqtikuli_Davaleba_2.Properties.Resources.resources
+C:\Users\Ekaterine\source\repos\Praqtikuli_Davaleba_2\Praqtikuli_Davaleba_2\obj\Debug\Praqtikuli_Davaleba_2.csproj.GenerateResource.cache
+C:\Users\Ekaterine\source\repos\Praqtikuli_Davaleba_2\Praqtikuli_Davaleba_2\obj\Debug\Praqtikuli_Davaleba_2.csproj.CoreCompileInputs.cache
+C:\Users\Ekaterine\source\repos\Praqtikuli_Davaleba_2\Praqtikuli_Davaleba_2\obj\Debug\Praqtikuli_Davaleba_2.exe
+C:\Users\Ekaterine\source\repos\Praqtikuli_Davaleba_2\Praqtikuli_Davaleba_2\obj\Debug\Praqtikuli_Davaleba_2.pdb
